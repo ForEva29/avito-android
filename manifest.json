@@ -1,0 +1,15 @@
+{
+  "name": "Avito Android",
+  "short_name": "Avito Android",
+  "start_url": "/avito-android/",
+  "scope": "/avito-android/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/avito-android/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
